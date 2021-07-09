@@ -1,0 +1,21 @@
+@media (max-width:1180px) {
+   .navbar{
+         display:none;
+         
+   }
+   .social-link  {
+    margin:0 auto;    	
+
+   }
+   .top-header{
+   	display:block;
+
+   }
+   .top-header .logo{
+   	margin-left:15px; 
+   }
+   .information-table{
+   margin-top:15px; 
+   	text-align:center; 
+   }
+} 
